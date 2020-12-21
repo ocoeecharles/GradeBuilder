@@ -7,7 +7,7 @@ import java.util.Scanner;
  * outputs lowest, highest, and average grade
  * @author $Charles Owens
  */
-public class OwensLab12 {
+public class GradeBuilder {
     
     public static int[] getGrades()
     {
