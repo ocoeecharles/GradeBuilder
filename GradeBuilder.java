@@ -1,4 +1,4 @@
-package csci1011.lab12;
+package cs1.a;
 
 import java.util.Scanner;
 /**
